@@ -1,0 +1,29 @@
+.row {
+    display: flex;
+}
+
+.content {
+    width: 960px;
+    margin: auto;
+}
+
+.space-around {
+    justify-content: space-around;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.horizontal-center {
+    align-items: center;
+}
+
+.self-align-center {
+    align-self: center;
+}

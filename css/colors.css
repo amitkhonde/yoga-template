@@ -1,0 +1,27 @@
+.secondary-green {
+    color: #99fa99;
+}
+
+.light-green {
+    color: #b6d8cf;
+}
+
+.dark-green {
+    color: #315f52;
+}
+
+.green {
+    color: #21a51e;
+}
+
+.rgb-color {
+    color: rgb(33, 165, 30);
+}
+
+.pink-background {
+    background-color: pink;
+}
+
+.white-background {
+    background-color: white;
+}
